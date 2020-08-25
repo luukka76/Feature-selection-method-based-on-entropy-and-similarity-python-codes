@@ -6,3 +6,7 @@ Feature selection method using similarity measure and fuzzy entroropy
  P. Luukka, (2011) Feature Selection Using Fuzzy Entropy Measures with
  Similarity Classifier, Expert Systems with Applications, 38, pp.
  4600-4607
+Two files included from this:
+
+1.	FSsimilarityPL.ipynb: Python notebook file including the feature selection function
+2.	Feature_selection_PL: Python notebook file including the function and examples of the use of the function
