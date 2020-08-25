@@ -10,3 +10,8 @@ Two files included from this:
 
 1.	FSsimilarityPL.ipynb: Python notebook file including the feature selection function
 2.	Feature_selection_PL: Python notebook file including the function and examples of the use of the function
+
+Special thanks to this goes to Mahinda Mailagaha Kumbure
+
+
+
