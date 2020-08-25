@@ -13,5 +13,7 @@ Two files included from this:
 
 Special thanks to this goes to Mahinda Mailagaha Kumbure
 
+For matlab codes see:
 
+https://se.mathworks.com/matlabcentral/fileexchange/31366-feature-selection-using-fuzzy-entropy-measures-and-similarity
 
